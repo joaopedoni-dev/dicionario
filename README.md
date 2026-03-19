@@ -28,15 +28,15 @@ Durante projetos freelancer com pandas, openpyxl e numpy, perco tempo voltando �
 
 **Tela inicial** — busca rápida, gerenciamento de bibliotecas e acesso aos dicionários
 
-![Tela inicial](screenshots/Tela_inicial.png)
+![Tela inicial](Tela%20inicial.png)
 
 **Adicionar comando** — formulário com nome, descrição em português, exemplo técnico e aplicação prática
 
-![Adicionar comando](screenshots/Adicionar_novo_comando.png)
+![Adicionar comando](Adicionar%20novo%20comando.png)
 
 **Lista de comandos** — visualização completa com exportação para PDF e cópia para clipboard
 
-![Lista de comandos](screenshots/Lista_de_comandos.png)
+![Lista de comandos](Lista%20de%20comandos.png)
 
 ---
 
